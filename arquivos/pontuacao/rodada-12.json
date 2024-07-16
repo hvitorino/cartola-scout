@@ -1,0 +1,4428 @@
+{
+    "atletas": {
+        "100079": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Zaracho",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_wjGLEpf.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "100085": {
+            "scout": {
+                "CA": 1,
+                "DS": 4,
+                "FC": 3,
+                "FS": 2
+            },
+            "apelido": "Pedro Augusto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_omYwNQA.png",
+            "pontuacao": 3.9,
+            "posicao_id": 4,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "100652": {
+            "scout": {
+                "DS": 3,
+                "FC": 3,
+                "FD": 1,
+                "FF": 2,
+                "FS": 1,
+                "I": 2
+            },
+            "apelido": "Yuri Alberto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_wt9arbZ.png",
+            "pontuacao": 5.8,
+            "posicao_id": 5,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "100848": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Luan Cândido",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_DTpZOty.png",
+            "pontuacao": 1.4,
+            "posicao_id": 3,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "100969": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Ronald Lopes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_FORMATO_Nhk7IV4.png",
+            "pontuacao": 2.5,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "100976": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Derek",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/07/21/photo_220x220_Rr5xK7r.png",
+            "pontuacao": 0.5,
+            "posicao_id": 5,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "101290": {
+            "scout": {
+                "FD": 1,
+                "FS": 2
+            },
+            "apelido": "Ferreira",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_nPg7koa.png",
+            "pontuacao": 2.2,
+            "posicao_id": 5,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "101314": {
+            "scout": {
+                "DS": 2
+            },
+            "apelido": "Ademir",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_IWREALz.png",
+            "pontuacao": 2.4,
+            "posicao_id": 5,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "101431": {
+            "scout": {
+                "FD": 1
+            },
+            "apelido": "Danilo Boza",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_b7q5w0V.png",
+            "pontuacao": 1.2,
+            "posicao_id": 3,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "101573": {
+            "scout": {
+                "DS": 2,
+                "FS": 4
+            },
+            "apelido": "Pepê",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_eQw4wlK.png",
+            "pontuacao": 4.4,
+            "posicao_id": 4,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "101594": {
+            "scout": {
+                "DS": 2,
+                "FC": 1
+            },
+            "apelido": "Hugo Moura",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_FORMATO_jLwJb5G.png",
+            "pontuacao": 2.1,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "101597": {
+            "scout": {
+                "DS": 4,
+                "FC": 2
+            },
+            "apelido": "Ramon",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_j3eOqDC.png",
+            "pontuacao": 4.2,
+            "posicao_id": 2,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "101601": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Caio Vinícius",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_fCg7WfQ.png",
+            "pontuacao": 2.1,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "101666": {
+            "scout": {
+                "DS": 3,
+                "FC": 1
+            },
+            "apelido": "Rhaldney",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_VWBr2KD.png",
+            "pontuacao": 3.3,
+            "posicao_id": 4,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "101708": {
+            "scout": {
+                "FS": 1,
+                "SG": 1
+            },
+            "apelido": "Felipe Jonatan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_FORMATO_ZDljmkA.png",
+            "pontuacao": 5.5,
+            "posicao_id": 2,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "101715": {
+            "scout": {
+                "DS": 2,
+                "FS": 5
+            },
+            "apelido": "Alerrandro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_v6x7rRS.png",
+            "pontuacao": 4.9,
+            "posicao_id": 5,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "101727": {
+            "scout": {
+                "CA": 1,
+                "FC": 1
+            },
+            "apelido": "Matheuzinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_Mq6sxK4.png",
+            "pontuacao": -1.3,
+            "posicao_id": 2,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "101728": {
+            "scout": {},
+            "apelido": "Diego Costa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_ApqbX2X.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "101752": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 1,
+                "FF": 2
+            },
+            "apelido": "Claudinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_6lSysiX.png",
+            "pontuacao": 2.7,
+            "posicao_id": 2,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "101960": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FD": 1,
+                "FS": 1,
+                "FT": 1
+            },
+            "apelido": "Vitinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_fcyTaPY.png",
+            "pontuacao": 5.6,
+            "posicao_id": 5,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "101995": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FS": 1,
+                "SG": 1
+            },
+            "apelido": "Brítez",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_HXZBgqO.png",
+            "pontuacao": 5.7,
+            "posicao_id": 3,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "102130": {
+            "scout": {
+                "DS": 1,
+                "FF": 2,
+                "FS": 1
+            },
+            "apelido": "Piquerez",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_loXGEPe.png",
+            "pontuacao": 3.3,
+            "posicao_id": 2,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "102253": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 1,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Lucas Halter",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_SVv6kJE.png",
+            "pontuacao": 2.9,
+            "posicao_id": 3,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "102318": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Caio Paulista",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_nZ3jBWs.png",
+            "pontuacao": 1.7,
+            "posicao_id": 2,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "102340": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FF": 1,
+                "FS": 1,
+                "PC": 1
+            },
+            "apelido": "Cacá",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/07/photo_FORMATO.png",
+            "pontuacao": 1.7,
+            "posicao_id": 3,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "102561": {
+            "scout": {
+                "DS": 1,
+                "FC": 2
+            },
+            "apelido": "Mastriani",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/05/photo_FORMATO_JrvZkOm.png",
+            "pontuacao": 0.6,
+            "posicao_id": 5,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "102598": {
+            "scout": {
+                "A": 1,
+                "CA": 1
+            },
+            "apelido": "Helinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_HKFN5Du.png",
+            "pontuacao": 4,
+            "posicao_id": 5,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "102796": {
+            "scout": {
+                "DS": 2,
+                "FF": 1
+            },
+            "apelido": "Julimar",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_do5hHhP.png",
+            "pontuacao": 3.2,
+            "posicao_id": 5,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "102878": {
+            "scout": {
+                "DS": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Terans",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_hfdtfwn.png",
+            "pontuacao": 3.7,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "102906": {
+            "scout": {
+                "DE": 3,
+                "SG": 1
+            },
+            "apelido": "Anderson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_pMtI9RP.png",
+            "pontuacao": 8,
+            "posicao_id": 1,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "102909": {
+            "scout": {
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Luan Vinícius",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_Zd7I4CW.png",
+            "pontuacao": 1.7,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "103014": {
+            "scout": {
+                "FS": 2
+            },
+            "apelido": "Laquintana",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_lsx86RT.png",
+            "pontuacao": 1,
+            "posicao_id": 5,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "103295": {
+            "scout": {
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Eric Ramires",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_3VHcc20.png",
+            "pontuacao": 0.2,
+            "posicao_id": 4,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "103347": {
+            "scout": {
+                "DS": 8
+            },
+            "apelido": "Matheus Alexandre",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_V7nD4iR.png",
+            "pontuacao": 9.6,
+            "posicao_id": 2,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "103575": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Caetano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_fyit2aL.png",
+            "pontuacao": -0.3,
+            "posicao_id": 3,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "103684": {
+            "scout": {
+                "DS": 2,
+                "FD": 1,
+                "FF": 1
+            },
+            "apelido": "Kaíque Rocha",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_1ebxa2m.png",
+            "pontuacao": 4.4,
+            "posicao_id": 3,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "103695": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Jadsom Silva",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_4l6blnt.png",
+            "pontuacao": 0.9,
+            "posicao_id": 4,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "103764": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FF": 1,
+                "G": 1
+            },
+            "apelido": "Gabriel Veron",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_Kh2CeQC.png",
+            "pontuacao": 11.2,
+            "posicao_id": 5,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "103767": {
+            "scout": {
+                "FC": 3,
+                "FD": 1,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Gabriel Menino",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_yzWSMvb.png",
+            "pontuacao": 2.1,
+            "posicao_id": 4,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "104085": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 1
+            },
+            "apelido": "Bruno Fuchs",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_FORMATO_6xGko1v.png",
+            "pontuacao": 2.3,
+            "posicao_id": 3,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "104118": {
+            "scout": {
+                "DE": 5,
+                "SG": 1
+            },
+            "apelido": "Lucas Arcanjo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_0iYWFXU.png",
+            "pontuacao": 10,
+            "posicao_id": 1,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "104250": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "João Victor",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_or4O39H.png",
+            "pontuacao": 2.6,
+            "posicao_id": 3,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "104253": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FF": 2
+            },
+            "apelido": "Adriano Martins",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_JuPF2jd.png",
+            "pontuacao": 3.7,
+            "posicao_id": 3,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "104257": {
+            "scout": {
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "João Lucas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_Ey1s4jw.png",
+            "pontuacao": 0.5,
+            "posicao_id": 2,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "104383": {
+            "scout": {
+                "DE": 5,
+                "DP": 1,
+                "FS": 1,
+                "GS": 1
+            },
+            "apelido": "Matheus Mendes",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_xQ2S67t.png",
+            "pontuacao": 11.5,
+            "posicao_id": 1,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "104502": {
+            "scout": {
+                "DS": 5,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Christian",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_4ASqaCm.png",
+            "pontuacao": 7.7,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "104693": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 4
+            },
+            "apelido": "Newton",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_FORMATO_TFHsgGX.png",
+            "pontuacao": -1,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "104754": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Juan Vojvoda",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_FORMATO_UIx1Yzg.png",
+            "pontuacao": 9.41,
+            "posicao_id": 6,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "104759": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Leo Godoy",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/19/photo_FORMATO.png",
+            "pontuacao": 1.7,
+            "posicao_id": 2,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "104994": {
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FS": 1,
+                "SG": 1
+            },
+            "apelido": "Wagner Leonardo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_kfLtGgD.png",
+            "pontuacao": 6.4,
+            "posicao_id": 3,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "105047": {
+            "scout": {
+                "DS": 1,
+                "SG": 1
+            },
+            "apelido": "João Marcelo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_s2GXfyO.png",
+            "pontuacao": 6.2,
+            "posicao_id": 3,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "105373": {
+            "scout": {
+                "DS": 4,
+                "FC": 1
+            },
+            "apelido": "Gabriel Xavier",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_7TSdotN.png",
+            "pontuacao": 4.5,
+            "posicao_id": 3,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "105531": {
+            "scout": {
+                "DS": 2,
+                "FF": 1,
+                "G": 1
+            },
+            "apelido": "Matheus Bidu",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_1Zas2lO.png",
+            "pontuacao": 11.2,
+            "posicao_id": 2,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "105568": {
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FS": 1,
+                "G": 2
+            },
+            "apelido": "Lucero",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_W3SXUOe.png",
+            "pontuacao": 17.4,
+            "posicao_id": 5,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "105584": {
+            "scout": {
+                "A": 1,
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Lucas Piton",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_hcvXauo.png",
+            "pontuacao": 6.7,
+            "posicao_id": 2,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "105811": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FF": 1,
+                "FS": 1,
+                "I": 1,
+                "PS": 1
+            },
+            "apelido": "Wesley",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_X6kjIiZ.png",
+            "pontuacao": 1.8,
+            "posicao_id": 5,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "105902": {
+            "scout": {},
+            "apelido": "Zé Gabriel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_JGhasXI.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "105911": {
+            "scout": {
+                "FC": 3
+            },
+            "apelido": "Rômulo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_lQJeqYA.png",
+            "pontuacao": -0.9,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "106082": {
+            "scout": {
+                "A": 1,
+                "FD": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Ewerthon",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_cNnjyZe.png",
+            "pontuacao": 7.5,
+            "posicao_id": 2,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "106147": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Thiago Carpini",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/05/14/photo_FORMATO_IgX32oN.png",
+            "pontuacao": 7.78,
+            "posicao_id": 6,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "106160": {
+            "scout": {
+                "DE": 3,
+                "GS": 2
+            },
+            "apelido": "Lucão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_wvc5kfv.png",
+            "pontuacao": 1,
+            "posicao_id": 1,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "106323": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FS": 2,
+                "I": 1
+            },
+            "apelido": "Caio Alexandre",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/15/photo_FORMATO_jiBs4Bk.png",
+            "pontuacao": 1.8,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "106434": {
+            "scout": {
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Eduardo Santos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_wPSGjby.png",
+            "pontuacao": 0.5,
+            "posicao_id": 3,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "106593": {
+            "scout": {
+                "SG": 1
+            },
+            "apelido": "Villalba",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/12/photo_FORMATO_mqCHNug.png",
+            "pontuacao": 5,
+            "posicao_id": 3,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "106824": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Welington",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_Z3aNUXx.png",
+            "pontuacao": 0.8,
+            "posicao_id": 2,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "106831": {
+            "scout": {},
+            "apelido": "Juan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_uPYz8tk.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "107093": {
+            "scout": {
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Luciano Juba",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_rR1yZyw.png",
+            "pontuacao": 0.2,
+            "posicao_id": 2,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "107172": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Patrick de Paula",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_tS5MIor.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "107173": {
+            "scout": {},
+            "apelido": "Michel Araújo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_498ez5E.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "107179": {
+            "scout": {
+                "DE": 2,
+                "DP": 1,
+                "GS": 1
+            },
+            "apelido": "Matheus Donelli",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_9utJF4u.png",
+            "pontuacao": 8,
+            "posicao_id": 1,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "107183": {
+            "scout": {
+                "DE": 5,
+                "GS": 2
+            },
+            "apelido": "Léo Linck",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_bL4Rm1s.png",
+            "pontuacao": 3,
+            "posicao_id": 1,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "107256": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Zé Vitor",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/13/photo_220x220_dAbIrS8.png",
+            "pontuacao": 2.9,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "107908": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FT": 1
+            },
+            "apelido": "Hugo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_h4IhTE1.png",
+            "pontuacao": 5.1,
+            "posicao_id": 2,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "108133": {
+            "scout": {
+                "FC": 2,
+                "FD": 2,
+                "PP": 1,
+                "PS": 1
+            },
+            "apelido": "Isidro Pitta",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_VmtW8Bv.png",
+            "pontuacao": -1.2,
+            "posicao_id": 5,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "109282": {
+            "scout": {
+                "DS": 3,
+                "FC": 1,
+                "FS": 2,
+                "I": 1
+            },
+            "apelido": "Luiz Henrique",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_f3wPomL.png",
+            "pontuacao": 4.2,
+            "posicao_id": 5,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "109573": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Martinelli",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_DxKpmdn.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "110506": {
+            "scout": {},
+            "apelido": "Abel Ferreira",
+            "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/574e87d52be9d06fd03fa69fefb60255_FORMATO.png",
+            "pontuacao": 3.15,
+            "posicao_id": 6,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "110667": {
+            "scout": {
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Machuca",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_aKgahZX.png",
+            "pontuacao": 1.7,
+            "posicao_id": 5,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "110668": {
+            "scout": {
+                "DS": 5
+            },
+            "apelido": "Esquivel",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/05/31/photo_FORMATO_DlnAHYU.png",
+            "pontuacao": 6,
+            "posicao_id": 2,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "110759": {
+            "scout": {},
+            "apelido": "John Kennedy",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_XO4700O.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "110760": {
+            "scout": {
+                "A": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Biel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_549ojOA.png",
+            "pontuacao": 6.7,
+            "posicao_id": 5,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "111005": {
+            "scout": {
+                "DS": 3,
+                "FC": 3,
+                "FS": 3
+            },
+            "apelido": "Léo Naldi",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_mVG5FsO.png",
+            "pontuacao": 4.2,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "111309": {
+            "scout": {
+                "DS": 1,
+                "FC": 3,
+                "FF": 1
+            },
+            "apelido": "Gustavo Martins",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_0UAzL2e.png",
+            "pontuacao": 1.1,
+            "posicao_id": 3,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "111407": {
+            "scout": {
+                "FC": 1,
+                "G": 1
+            },
+            "apelido": "Luis Mandaca",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_ZNLvDib.png",
+            "pontuacao": 7.7,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "111578": {
+            "scout": {},
+            "apelido": "António Oliveira",
+            "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/21a131dcff78d521da3297e98526ce48_FORMATO.png",
+            "pontuacao": 5.46,
+            "posicao_id": 6,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "111682": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FF": 1
+            },
+            "apelido": "Adson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_FdRiLgH.png",
+            "pontuacao": 0.4,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "111945": {
+            "scout": {
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Diego Hernández",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_A2or1Su.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "112709": {
+            "scout": {
+                "DS": 4,
+                "FC": 1,
+                "FF": 1,
+                "FS": 1,
+                "SG": 1
+            },
+            "apelido": "Kaiki Bruno",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_vh3WAlQ.png",
+            "pontuacao": 10.8,
+            "posicao_id": 2,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "112869": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 2,
+                "FF": 2,
+                "FS": 4
+            },
+            "apelido": "Aníbal Moreno",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_exCTW9r.png",
+            "pontuacao": 5.6,
+            "posicao_id": 4,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "112886": {
+            "scout": {
+                "DS": 1,
+                "FC": 3,
+                "FS": 1,
+                "G": 1
+            },
+            "apelido": "Lucas Barbosa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_v69l3WS.png",
+            "pontuacao": 8.8,
+            "posicao_id": 5,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "112906": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Sforza",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/19/photo_FORMATO.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "113103": {
+            "scout": {
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Flaco López",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_leI4Pi1.png",
+            "pontuacao": 1.3,
+            "posicao_id": 5,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "113157": {
+            "scout": {},
+            "apelido": "Nathan Mendes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_avgtjrS.png",
+            "pontuacao": 0,
+            "posicao_id": 2,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "113311": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Baltasar Barcia",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_vAZLl3s.png",
+            "pontuacao": 0.9,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "113350": {
+            "scout": {},
+            "apelido": "Juca Antonello",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/08/17/7e19233199669b177960f86cfa511fd8_220x220.png",
+            "pontuacao": 3.52,
+            "posicao_id": 6,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "113687": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Du Queiroz",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_XOn9XLw.png",
+            "pontuacao": 2,
+            "posicao_id": 4,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "115141": {
+            "scout": {
+                "FC": 1,
+                "FF": 1,
+                "I": 1
+            },
+            "apelido": "Lucas Freitas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_JGN1KdH.png",
+            "pontuacao": 0.4,
+            "posicao_id": 3,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "115239": {
+            "scout": {
+                "DS": 3,
+                "FC": 1,
+                "FS": 2
+            },
+            "apelido": "Wesley",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_zY4BtV3.png",
+            "pontuacao": 4.3,
+            "posicao_id": 2,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "115246": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Naves",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_SDs96Yd.png",
+            "pontuacao": 2,
+            "posicao_id": 3,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "115268": {
+            "scout": {
+                "DS": 2,
+                "G": 1
+            },
+            "apelido": "Rômulo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/13/photo_FORMATO_MSj6UGK.png",
+            "pontuacao": 10.4,
+            "posicao_id": 3,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "115914": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Evertton Araújo",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_FORMATO_TQMbzmd.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "115986": {
+            "scout": {},
+            "apelido": "Denilson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_dCrOJqx.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "116034": {
+            "scout": {},
+            "apelido": "Victor Hugo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_tzeghN4.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "116056": {
+            "scout": {
+                "A": 1,
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Zé Hugo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_csNTrnu.png",
+            "pontuacao": 7,
+            "posicao_id": 5,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "116065": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Cuiabano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/06/11/photo_FORMATO_EU50mMf.png",
+            "pontuacao": -0.3,
+            "posicao_id": 2,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "116447": {
+            "scout": {
+                "FC": 4
+            },
+            "apelido": "Hércules",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_THe8tWf.png",
+            "pontuacao": -1.2,
+            "posicao_id": 4,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "117314": {
+            "scout": {
+                "DS": 1,
+                "FC": 3,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Thiago Borbas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_B328S5W.png",
+            "pontuacao": 2,
+            "posicao_id": 5,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "117330": {
+            "scout": {
+                "DS": 3,
+                "FC": 3
+            },
+            "apelido": "Robert Renan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_cScwdGd.png",
+            "pontuacao": 2.7,
+            "posicao_id": 3,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "117459": {
+            "scout": {
+                "CA": 1,
+                "FC": 1
+            },
+            "apelido": "Léo Maná",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/07/02/5c3199a34de47846ae66a0560d4e7417_FORMATO.png",
+            "pontuacao": -1.3,
+            "posicao_id": 2,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "117579": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Galoppo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_EntLJJn.png",
+            "pontuacao": 0.8,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "117622": {
+            "scout": {
+                "CA": 1,
+                "FC": 2
+            },
+            "apelido": "Alejo Cruz",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_4JP0Dfv.png",
+            "pontuacao": -1.6,
+            "posicao_id": 5,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "117632": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FF": 2,
+                "FS": 1
+            },
+            "apelido": "Garro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_5Gp0vVv.png",
+            "pontuacao": 4.5,
+            "posicao_id": 4,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "117711": {
+            "scout": {},
+            "apelido": "Pedro Caixinha",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_FORMATO_LvzP4JH.png",
+            "pontuacao": 2.99,
+            "posicao_id": 6,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "117842": {
+            "scout": {
+                "CA": 1,
+                "FD": 1,
+                "FF": 1,
+                "G": 1
+            },
+            "apelido": "Vitinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_bhMj4uh.png",
+            "pontuacao": 9,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "117909": {
+            "scout": {
+                "DS": 1,
+                "FD": 1
+            },
+            "apelido": "Wesley",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_KAHpgBA.png",
+            "pontuacao": 2.4,
+            "posicao_id": 5,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "117910": {
+            "scout": {
+                "DS": 6,
+                "FS": 2
+            },
+            "apelido": "Breno Bidon",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/07/02/7c27a7fcaaaccdedd144a0e9af0c0e2d_FORMATO.png",
+            "pontuacao": 8.2,
+            "posicao_id": 4,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "118181": {
+            "scout": {},
+            "apelido": "Anderson Gomes",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/05/16/2cac4df92578f2317dc3afe8d728b472_220x220.png",
+            "pontuacao": 3.34,
+            "posicao_id": 6,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "118745": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Eliel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_t0Fw29t.png",
+            "pontuacao": -0.3,
+            "posicao_id": 5,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "118752": {
+            "scout": {
+                "CA": 1,
+                "FC": 4,
+                "FS": 1
+            },
+            "apelido": "Mateus Carvalho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_JfIekB6.png",
+            "pontuacao": -1.7,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "118774": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 1,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Alexsander",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_35s5NpC.png",
+            "pontuacao": 4.1,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "121824": {
+            "scout": {},
+            "apelido": "Kayke",
+            "foto": null,
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "121830": {
+            "scout": {
+                "FC": 1,
+                "G": 1
+            },
+            "apelido": "Janderson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/23/photo_FORMATO.png",
+            "pontuacao": 7.7,
+            "posicao_id": 5,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "122321": {
+            "scout": {
+                "DS": 1,
+                "FC": 2,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Lorran",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/06/21/photo_FORMATO_hV943L9.png",
+            "pontuacao": 2.3,
+            "posicao_id": 4,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "122393": {
+            "scout": {
+                "FC": 1,
+                "FD": 2,
+                "FS": 2
+            },
+            "apelido": "Talisson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_HTUJbDI.png",
+            "pontuacao": 3.1,
+            "posicao_id": 5,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "122486": {
+            "scout": {},
+            "apelido": "Rayan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_DAjK7yT.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "122887": {
+            "scout": {
+                "CA": 1,
+                "FD": 1,
+                "FF": 2,
+                "FS": 3
+            },
+            "apelido": "Emiliano Rodríguez",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_1aZ2q89.png",
+            "pontuacao": 3.3,
+            "posicao_id": 5,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "123359": {
+            "scout": {
+                "FS": 3,
+                "G": 1
+            },
+            "apelido": "Cadu",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/04/13/photo_FORMATO_FDCeBal.png",
+            "pontuacao": 9.5,
+            "posicao_id": 5,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "123360": {
+            "scout": {
+                "FC": 2,
+                "FD": 1,
+                "FF": 1,
+                "FT": 1,
+                "I": 1
+            },
+            "apelido": "Cauly",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_31M3s89.png",
+            "pontuacao": 4.3,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "123873": {
+            "scout": {
+                "FC": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Palacios",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/07/photo_220x220_b3oriPT.png",
+            "pontuacao": 1,
+            "posicao_id": 5,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "124271": {
+            "scout": {},
+            "apelido": "Gustavo Prado",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/04/03/photo_FORMATO_Ph1gWxf.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "124690": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Paulo Vitor",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/05/07/photo_FORMATO_1HEXq1i.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "124757": {
+            "scout": {
+                "CA": 1,
+                "FC": 2
+            },
+            "apelido": "Nathan Fernandes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_nzWNsYv.png",
+            "pontuacao": -1.6,
+            "posicao_id": 5,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "125050": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Robert",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_0Vl4WfI.png",
+            "pontuacao": 1.7,
+            "posicao_id": 5,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "125926": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Zapelli",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/07/21/photo_FORMATO_hPfi5y5.png",
+            "pontuacao": 0.9,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "126117": {
+            "scout": {
+                "DS": 2,
+                "FS": 2
+            },
+            "apelido": "Gustavo Nunes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/13/photo_FORMATO.png",
+            "pontuacao": 3.4,
+            "posicao_id": 5,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "126216": {
+            "scout": {
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Derik Lacerda",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_cgYyCgr.png",
+            "pontuacao": 1.3,
+            "posicao_id": 5,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "126471": {
+            "scout": {
+                "DS": 1
+            },
+            "apelido": "Barreal",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_rsHwvD6.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "126900": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FF": 2,
+                "FS": 3
+            },
+            "apelido": "Igor Coronado",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_Bzw6tC2.png",
+            "pontuacao": 5.2,
+            "posicao_id": 4,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "126977": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Fernando Seabra",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_GrLAgQt.png",
+            "pontuacao": 9.01,
+            "posicao_id": 6,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "127273": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Artur Jorge",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/05/photo_220x220_4pgYWQ9.png",
+            "pontuacao": 5.85,
+            "posicao_id": 6,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "128431": {
+            "scout": {
+                "DS": 1
+            },
+            "apelido": "João Cruz",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/10/17/photo_FORMATO_WnvtCLu.png",
+            "pontuacao": 1.2,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "128915": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Estêvão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_ndyx6H0.png",
+            "pontuacao": -0.3,
+            "posicao_id": 5,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "129766": {
+            "scout": {
+                "CA": 1,
+                "DS": 1
+            },
+            "apelido": "Max",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/16/photo_FORMATO_czuX078.png",
+            "pontuacao": 0.2,
+            "posicao_id": 5,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "130254": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Leandrinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_5FEEg9Y.png",
+            "pontuacao": 0.5,
+            "posicao_id": 2,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "130255": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FF": 1,
+                "FS": 3
+            },
+            "apelido": "Guilherme Estrella",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/18/photo_FORMATO_l9qdew2.png",
+            "pontuacao": 4.4,
+            "posicao_id": 4,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "130609": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Vitor Reis",
+            "foto": null,
+            "pontuacao": 1.7,
+            "posicao_id": 3,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "130905": {
+            "scout": {},
+            "apelido": "Rodallega",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_RJIqsMI.png",
+            "pontuacao": 0,
+            "posicao_id": 2,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "132682": {
+            "scout": {},
+            "apelido": "Rafael Paiva",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/30/photo_FORMATO_9iCVDrU.png",
+            "pontuacao": 3.15,
+            "posicao_id": 6,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "37656": {
+            "scout": {
+                "DE": 5,
+                "GS": 1
+            },
+            "apelido": "Fábio",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_kG7j2Bl.png",
+            "pontuacao": 4,
+            "posicao_id": 1,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "38394": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Thiago Heleno",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/05/photo_FORMATO_RN1xUpJ.png",
+            "pontuacao": 0.9,
+            "posicao_id": 3,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "38398": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Renato Augusto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_5yW5MSp.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "38402": {
+            "scout": {
+                "DS": 5,
+                "FC": 2,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Marcelo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_TeNxwE6.png",
+            "pontuacao": 7.1,
+            "posicao_id": 2,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "38877": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Mariano",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_IOyd2Qa.png",
+            "pontuacao": 2.8,
+            "posicao_id": 2,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "38913": {
+            "scout": {
+                "A": 1,
+                "DS": 1,
+                "FS": 2
+            },
+            "apelido": "Nenê",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_h0cWmA3.png",
+            "pontuacao": 7.2,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "39148": {
+            "scout": {
+                "A": 1,
+                "DS": 1,
+                "FC": 1,
+                "FF": 4,
+                "FS": 4
+            },
+            "apelido": "Hulk",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_FORMATO_qZNTt0n.png",
+            "pontuacao": 11.1,
+            "posicao_id": 5,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "41929": {
+            "scout": {},
+            "apelido": "Renato Gaúcho",
+            "foto": "https://s.sde.globo.com/media/person_role/2021/07/12/a1f0a8f108ede4bf4ca2033148bcb547_FORMATO.png",
+            "pontuacao": 3.19,
+            "posicao_id": 6,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "42222": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Osvaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_ehAae2c.png",
+            "pontuacao": 1.7,
+            "posicao_id": 5,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "45125": {
+            "scout": {},
+            "apelido": "Tite",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/10/09/photo_FORMATO_KL4MJhP.png",
+            "pontuacao": 3.45,
+            "posicao_id": 6,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "51413": {
+            "scout": {
+                "DE": 5,
+                "FS": 1,
+                "GS": 1
+            },
+            "apelido": "Walter",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_1t3HUJH.png",
+            "pontuacao": 4.5,
+            "posicao_id": 1,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "51772": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FS": 4
+            },
+            "apelido": "Everton Ribeiro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/15/photo_FORMATO_NvwmZSj.png",
+            "pontuacao": 4.1,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "52827": {
+            "scout": {},
+            "apelido": "David Luiz",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_5AohPGw.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "61106": {
+            "scout": {
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Cicinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_99whIvZ.png",
+            "pontuacao": 0.2,
+            "posicao_id": 2,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "61188": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Gilberto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_pf8CAXv.png",
+            "pontuacao": 2.9,
+            "posicao_id": 5,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "61228": {
+            "scout": {
+                "DE": 3,
+                "GS": 2
+            },
+            "apelido": "Fabrício",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/06/11/photo_FORMATO_zdmyueQ.png",
+            "pontuacao": 1,
+            "posicao_id": 1,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "62020": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Douglas Costa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_rhXFmGa.png",
+            "pontuacao": 0.8,
+            "posicao_id": 5,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "62977": {
+            "scout": {
+                "FC": 1,
+                "FS": 3
+            },
+            "apelido": "Ganso",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_60FyCL4.png",
+            "pontuacao": 1.2,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "63013": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Marcos Rocha",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_XmAqO1V.png",
+            "pontuacao": 1.7,
+            "posicao_id": 2,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "63110": {
+            "scout": {
+                "CA": 1,
+                "DS": 4,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Alan Ruschel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_vo1ifE5.png",
+            "pontuacao": 3.7,
+            "posicao_id": 2,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "63289": {
+            "scout": {
+                "CA": 1
+            },
+            "apelido": "Edenílson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_FORMATO_TU1lzBm.png",
+            "pontuacao": -1,
+            "posicao_id": 4,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "68685": {
+            "scout": {
+                "DS": 1,
+                "FD": 2,
+                "FF": 1,
+                "FS": 1,
+                "G": 1,
+                "PP": 1
+            },
+            "apelido": "Alan Patrick",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_gaZ38EO.png",
+            "pontuacao": 8.9,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "68708": {
+            "scout": {
+                "FD": 1,
+                "G": 2
+            },
+            "apelido": "Eduardo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_oIeJUEt.png",
+            "pontuacao": 17.2,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "68920": {
+            "scout": {
+                "FD": 1
+            },
+            "apelido": "Dudu",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_3AXKZtG.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "68954": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "FS": 2
+            },
+            "apelido": "Marquinhos Gabriel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_cYCP9RY.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "68991": {
+            "scout": {
+                "DS": 1,
+                "FC": 5
+            },
+            "apelido": "Lucas Sasha",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_YNCB9SE.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "69138": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Pablo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/05/photo_FORMATO_9SQlsjr.png",
+            "pontuacao": 0.8,
+            "posicao_id": 5,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "69325": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Aránguiz",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_NLgDxgG.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "69686": {
+            "scout": {
+                "FC": 2,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "João Pedro Galvão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_Trda9pv.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "69705": {
+            "scout": {
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Nikão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/22/photo_FORMATO_k9LXARi.png",
+            "pontuacao": 1.8,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "70164": {
+            "scout": {
+                "A": 1,
+                "FC": 1,
+                "FS": 7
+            },
+            "apelido": "Lucas Moura",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_3fFiGsF.png",
+            "pontuacao": 8.2,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "70216": {
+            "scout": {
+                "DE": 4,
+                "GS": 2
+            },
+            "apelido": "Gustavo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_QDwF1Lw.png",
+            "pontuacao": 2,
+            "posicao_id": 1,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "70332": {
+            "scout": {
+                "DE": 4,
+                "GS": 1
+            },
+            "apelido": "Marchesín",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_PpXRpkU.png",
+            "pontuacao": 3,
+            "posicao_id": 1,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "70666": {
+            "scout": {
+                "FC": 2,
+                "G": 1
+            },
+            "apelido": "Marllon",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_r4ei6c2.png",
+            "pontuacao": 7.4,
+            "posicao_id": 3,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "70916": {
+            "scout": {},
+            "apelido": "Diogo Barbosa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_u4ftkcX.png",
+            "pontuacao": 0,
+            "posicao_id": 2,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "70944": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Bruno Henrique",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_CD57Ckc.png",
+            "pontuacao": 1.3,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "70958": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Jean Carlos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_4HRxczb.png",
+            "pontuacao": 0.8,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "71227": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Maicon",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_zkGlvKC.png",
+            "pontuacao": 2.6,
+            "posicao_id": 3,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "71536": {
+            "scout": {
+                "DS": 3,
+                "FC": 3,
+                "FD": 2,
+                "FF": 3,
+                "FS": 1
+            },
+            "apelido": "Luiz Gustavo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_nt2TzmF.png",
+            "pontuacao": 8,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "71631": {
+            "scout": {
+                "DE": 3,
+                "GS": 3
+            },
+            "apelido": "Weverton",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_pwFJ9Uo.png",
+            "pontuacao": 0,
+            "posicao_id": 1,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "71680": {
+            "scout": {
+                "FC": 1,
+                "SG": 1
+            },
+            "apelido": "Raúl Cáceres",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_lPclyZL.png",
+            "pontuacao": 4.7,
+            "posicao_id": 2,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "71898": {
+            "scout": {
+                "CA": 1,
+                "DS": 5,
+                "FC": 2,
+                "FD": 1
+            },
+            "apelido": "Gabriel Pires",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_084ZZNa.png",
+            "pontuacao": 5.6,
+            "posicao_id": 4,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "72532": {
+            "scout": {
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Maguinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_204au3d.png",
+            "pontuacao": 0.5,
+            "posicao_id": 2,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "72775": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 1
+            },
+            "apelido": "Fernandinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_G29hOpk.png",
+            "pontuacao": 1.1,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "73384": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Samuel Xavier",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_yDwEEkd.png",
+            "pontuacao": 1.4,
+            "posicao_id": 2,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "73476": {
+            "scout": {},
+            "apelido": "Marcão",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/04/28/f3607cbf154b821769f0d0c7ace0e882_FORMATO.png",
+            "pontuacao": 3.06,
+            "posicao_id": 6,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "73620": {
+            "scout": {},
+            "apelido": "Bruno Alves",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_k3QDtbn.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "73991": {
+            "scout": {
+                "DS": 1,
+                "FC": 3,
+                "FS": 1
+            },
+            "apelido": "Walisson Maia",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_o2efsws.png",
+            "pontuacao": 0.8,
+            "posicao_id": 3,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "78077": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Madson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_QT62TtG.png",
+            "pontuacao": 0.5,
+            "posicao_id": 2,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "78117": {
+            "scout": {
+                "A": 1,
+                "FC": 1,
+                "FS": 1,
+                "FT": 1
+            },
+            "apelido": "Everaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_ZTjMF4T.png",
+            "pontuacao": 8.2,
+            "posicao_id": 5,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "78445": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FS": 2
+            },
+            "apelido": "Renê",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_PNCSDK4.png",
+            "pontuacao": 3.4,
+            "posicao_id": 2,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "78450": {
+            "scout": {},
+            "apelido": "Cláudio Tencati",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/25/photo_FORMATO_54lwaii.png",
+            "pontuacao": 2.83,
+            "posicao_id": 6,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "78548": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FD": 1
+            },
+            "apelido": "Jean Mota",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_hp4AXuX.png",
+            "pontuacao": 2.1,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "78580": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Jonathan Cafu",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_EstVL0K.png",
+            "pontuacao": 0.9,
+            "posicao_id": 5,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "78715": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Ramiro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_MK4CCfT.png",
+            "pontuacao": 0.9,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "78850": {
+            "scout": {
+                "DS": 1,
+                "FS": 1,
+                "G": 1
+            },
+            "apelido": "Reinaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_v8J7R5r.png",
+            "pontuacao": 9.7,
+            "posicao_id": 2,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "78855": {
+            "scout": {
+                "FC": 3,
+                "FD": 1
+            },
+            "apelido": "Thiago Santos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_L3ovhxb.png",
+            "pontuacao": 0.3,
+            "posicao_id": 3,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "79035": {
+            "scout": {
+                "DS": 4,
+                "FC": 1,
+                "FS": 1,
+                "G": 1
+            },
+            "apelido": "Luiz Felipe",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/08/16/photo_FORMATO_vnMYw4d.png",
+            "pontuacao": 13,
+            "posicao_id": 3,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "79268": {
+            "scout": {
+                "CA": 1,
+                "DS": 4,
+                "FC": 1
+            },
+            "apelido": "Filipe Augusto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_AseAsft.png",
+            "pontuacao": 3.5,
+            "posicao_id": 4,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "79437": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Roger Machado",
+            "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/ec1e7e490c3a05088fd967b9e2468216_FORMATO.png",
+            "pontuacao": 6.75,
+            "posicao_id": 6,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "79631": {
+            "scout": {
+                "FD": 1
+            },
+            "apelido": "Cano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_uSA2481.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "79701": {
+            "scout": {
+                "FC": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Lucas Silva",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_KnivRCo.png",
+            "pontuacao": 1,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "79702": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Antônio Carlos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_Cwpf6R7.png",
+            "pontuacao": 3.4,
+            "posicao_id": 3,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "80129": {
+            "scout": {
+                "DS": 1,
+                "FF": 1,
+                "FS": 1,
+                "I": 1
+            },
+            "apelido": "Jadson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_1INRw87.png",
+            "pontuacao": 2.4,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "80196": {
+            "scout": {
+                "A": 2,
+                "DS": 4,
+                "FC": 1,
+                "FD": 1,
+                "FF": 1
+            },
+            "apelido": "Yago Pikachu",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_QAL0UhA.png",
+            "pontuacao": 16.5,
+            "posicao_id": 4,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "80287": {
+            "scout": {
+                "CA": 1,
+                "FD": 1,
+                "FS": 4,
+                "G": 1
+            },
+            "apelido": "Luciano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_hqCxZF4.png",
+            "pontuacao": 10.2,
+            "posicao_id": 5,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "80313": {
+            "scout": {
+                "DS": 3,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Gilberto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_iy1T2ej.png",
+            "pontuacao": 5.4,
+            "posicao_id": 2,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "80337": {
+            "scout": {
+                "FC": 2,
+                "FF": 1,
+                "G": 1
+            },
+            "apelido": "Arthur Caíke",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220.png",
+            "pontuacao": 8.2,
+            "posicao_id": 5,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "81150": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Mayke",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_pz3GebS.png",
+            "pontuacao": 2.9,
+            "posicao_id": 2,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "81551": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "I": 1
+            },
+            "apelido": "Hugo Mallo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_CBzQtxz.png",
+            "pontuacao": 1.3,
+            "posicao_id": 2,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "81845": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FS": 4,
+                "G": 1
+            },
+            "apelido": "Alisson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_fS2GyF1.png",
+            "pontuacao": 10.9,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "81881": {
+            "scout": {
+                "DE": 7,
+                "SG": 1
+            },
+            "apelido": "João Ricardo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_yXqoxi8.png",
+            "pontuacao": 12,
+            "posicao_id": 1,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "81952": {
+            "scout": {
+                "DS": 2,
+                "FC": 2,
+                "FS": 2
+            },
+            "apelido": "Willian Oliveira",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_AuUF822.png",
+            "pontuacao": 2.8,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "82455": {
+            "scout": {
+                "DS": 1,
+                "FC": 2,
+                "FS": 4
+            },
+            "apelido": "Zé Rafael",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_BAUllGq.png",
+            "pontuacao": 2.6,
+            "posicao_id": 4,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "82627": {
+            "scout": {
+                "A": 1,
+                "DS": 2,
+                "FC": 1,
+                "FD": 1,
+                "FS": 1,
+                "I": 1
+            },
+            "apelido": "Luiz Araújo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_HkAAcVs.png",
+            "pontuacao": 8.7,
+            "posicao_id": 5,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "82628": {
+            "scout": {
+                "SG": 1
+            },
+            "apelido": "Tinga",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_vAKLb1d.png",
+            "pontuacao": 5,
+            "posicao_id": 2,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "82639": {
+            "scout": {
+                "DS": 3,
+                "FC": 3
+            },
+            "apelido": "Marcelo Hermes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_g9yt731.png",
+            "pontuacao": 2.7,
+            "posicao_id": 2,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "82766": {
+            "scout": {},
+            "apelido": "Wellington Rato",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_NhIGhAv.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "83257": {
+            "scout": {
+                "FF": 1,
+                "FS": 1,
+                "I": 1
+            },
+            "apelido": "Gabriel",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_EM6z7aN.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "83528": {
+            "scout": {
+                "DS": 2,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Léo Pereira",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_rrGsWJ1.png",
+            "pontuacao": 2.3,
+            "posicao_id": 3,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "83817": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "FF": 1,
+                "FS": 2,
+                "I": 1
+            },
+            "apelido": "Clayson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_eqdux0f.png",
+            "pontuacao": 0.4,
+            "posicao_id": 5,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "84042": {
+            "scout": {
+                "A": 2,
+                "DS": 2,
+                "FC": 2,
+                "FS": 3
+            },
+            "apelido": "Tiquinho Soares",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_pjwDNV1.png",
+            "pontuacao": 13.3,
+            "posicao_id": 5,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "84428": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Fernando Sobral",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_dW9VacB.png",
+            "pontuacao": 2,
+            "posicao_id": 4,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "84558": {
+            "scout": {
+                "DS": 2,
+                "FC": 2,
+                "FF": 1
+            },
+            "apelido": "Lucas Romero",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_pUYQrUf.png",
+            "pontuacao": 2.6,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "84587": {
+            "scout": {
+                "FS": 2
+            },
+            "apelido": "Fellipe Mateus",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_3jr11fx.png",
+            "pontuacao": 1,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "84674": {
+            "scout": {
+                "DS": 1,
+                "FF": 1,
+                "FS": 1,
+                "G": 1
+            },
+            "apelido": "Lucas Evangelista",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_gMVR2lN.png",
+            "pontuacao": 10.5,
+            "posicao_id": 4,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "85004": {
+            "scout": {
+                "DE": 2,
+                "GS": 1
+            },
+            "apelido": "Marcos Felipe",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_JDJmU6R.png",
+            "pontuacao": 1,
+            "posicao_id": 1,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "85277": {
+            "scout": {
+                "FC": 2,
+                "FD": 1,
+                "FF": 2,
+                "FS": 1
+            },
+            "apelido": "Damián Suárez",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_DpJN07P.png",
+            "pontuacao": 2.7,
+            "posicao_id": 2,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "85931": {
+            "scout": {
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Hyoran",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_7KxaYiF.png",
+            "pontuacao": 0.2,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "86485": {
+            "scout": {
+                "FD": 1,
+                "FS": 1,
+                "I": 2
+            },
+            "apelido": "Keno",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_EdYl0O3.png",
+            "pontuacao": 1.5,
+            "posicao_id": 5,
+            "clube_id": 266,
+            "entrou_em_campo": true
+        },
+        "86508": {
+            "scout": {
+                "GS": 1
+            },
+            "apelido": "Jandrei",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_FD4URNn.png",
+            "pontuacao": -1,
+            "posicao_id": 1,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "86684": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Rodrigo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_fIUc997.png",
+            "pontuacao": -0.3,
+            "posicao_id": 3,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "86686": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Tchê Tchê",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_DbXXPxM.png",
+            "pontuacao": 0.9,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "86713": {
+            "scout": {
+                "DS": 1,
+                "FC": 1
+            },
+            "apelido": "Jonathan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_9loGKby.png",
+            "pontuacao": 0.9,
+            "posicao_id": 2,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "86777": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Danilo Barbosa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_p79ATUg.png",
+            "pontuacao": 2,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "86859": {
+            "scout": {},
+            "apelido": "José Welison",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_QbOqp5G.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "87008": {
+            "scout": {
+                "DE": 6,
+                "GS": 2
+            },
+            "apelido": "Léo Jardim",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_goyzWhz.png",
+            "pontuacao": 4,
+            "posicao_id": 1,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "87225": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 2
+            },
+            "apelido": "Pedro Henrique",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/24/photo_FORMATO_oxcf1Uy.png",
+            "pontuacao": 0.8,
+            "posicao_id": 3,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "87242": {
+            "scout": {},
+            "apelido": "Carlos de Pena",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/11/photo_FORMATO_fnqPxDu.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "87342": {
+            "scout": {
+                "CA": 1,
+                "FC": 2
+            },
+            "apelido": "Kannemann",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_f52uCmN.png",
+            "pontuacao": -1.6,
+            "posicao_id": 3,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "87391": {
+            "scout": {
+                "DS": 1
+            },
+            "apelido": "Allano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/22/photo_FORMATO_4fbfMIP.png",
+            "pontuacao": 1.2,
+            "posicao_id": 5,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "87470": {
+            "scout": {
+                "FD": 1,
+                "FF": 1,
+                "G": 1,
+                "I": 2
+            },
+            "apelido": "Thaciano",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/15/photo_FORMATO_wgwd4Ze.png",
+            "pontuacao": 9.8,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "87999": {
+            "scout": {
+                "A": 1,
+                "CA": 1,
+                "DS": 2,
+                "FC": 1,
+                "FD": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Gustavo Scarpa",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_FORMATO_UXqyPlk.png",
+            "pontuacao": 8.6,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "88033": {
+            "scout": {
+                "A": 1,
+                "CA": 1,
+                "FC": 1,
+                "FS": 3
+            },
+            "apelido": "Alan Empereur",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_yJZY7yN.png",
+            "pontuacao": 5.2,
+            "posicao_id": 3,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "88393": {
+            "scout": {
+                "FD": 2,
+                "FF": 1
+            },
+            "apelido": "Ayrton Lucas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_FORMATO_vtzXktM.png",
+            "pontuacao": 3.2,
+            "posicao_id": 2,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "89141": {
+            "scout": {},
+            "apelido": "Petit",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/05/06/photo_FORMATO_dWuxEhT.png",
+            "pontuacao": 3.97,
+            "posicao_id": 6,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "89224": {
+            "scout": {
+                "DS": 4,
+                "FC": 3,
+                "FD": 1,
+                "FS": 2
+            },
+            "apelido": "Barreto",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_ppF3oM9.png",
+            "pontuacao": 6.1,
+            "posicao_id": 4,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "89256": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 2,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Gerson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_mBAg0JY.png",
+            "pontuacao": 1.4,
+            "posicao_id": 4,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "89273": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "João Pedro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_yq877xk.png",
+            "pontuacao": 2,
+            "posicao_id": 2,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "89275": {
+            "scout": {
+                "DS": 4,
+                "FD": 1,
+                "FF": 2,
+                "SG": 1
+            },
+            "apelido": "William",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_Wno5RKV.png",
+            "pontuacao": 12.6,
+            "posicao_id": 2,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "89467": {
+            "scout": {
+                "DS": 5,
+                "FD": 2
+            },
+            "apelido": "Erick",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_GS948NH.png",
+            "pontuacao": 8.4,
+            "posicao_id": 5,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "89493": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "PC": 1
+            },
+            "apelido": "Igor Rabello",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_JxE36o1.png",
+            "pontuacao": -2.3,
+            "posicao_id": 3,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "89637": {
+            "scout": {
+                "DS": 6,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Thiago Maia",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/12/photo_FORMATO_CBUMmTU.png",
+            "pontuacao": 7.1,
+            "posicao_id": 4,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "89840": {
+            "scout": {
+                "FC": 3,
+                "FS": 3,
+                "I": 1
+            },
+            "apelido": "Calleri",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_hF89kWc.png",
+            "pontuacao": 0.5,
+            "posicao_id": 5,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "89846": {
+            "scout": {
+                "A": 1,
+                "DS": 2,
+                "FD": 3,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Cristaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_4i2PnOy.png",
+            "pontuacao": 12.3,
+            "posicao_id": 4,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "89883": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Dodi",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_SoQQafa.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "89918": {
+            "scout": {
+                "CA": 1,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Everton Galdino",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_ywqLzxA.png",
+            "pontuacao": -1.1,
+            "posicao_id": 5,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "90061": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FS": 2,
+                "G": 1,
+                "SG": 1
+            },
+            "apelido": "Bruno Pacheco",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_xopRGnx.png",
+            "pontuacao": 14.9,
+            "posicao_id": 2,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "90302": {
+            "scout": {
+                "A": 1,
+                "DS": 1
+            },
+            "apelido": "Pedro Rocha",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_Mch7ZGz.png",
+            "pontuacao": 6.2,
+            "posicao_id": 5,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "90303": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "FF": 1,
+                "FS": 2
+            },
+            "apelido": "Lincoln",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_3jS17Nq.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "90309": {
+            "scout": {
+                "CV": 1,
+                "DS": 3,
+                "FC": 4,
+                "FD": 1,
+                "FF": 1
+            },
+            "apelido": "David",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_4eK3iOa.png",
+            "pontuacao": 1.4,
+            "posicao_id": 5,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "90588": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Caíque",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_RJHB8O8.png",
+            "pontuacao": 2.6,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "90590": {
+            "scout": {
+                "CA": 1,
+                "DE": 4,
+                "GS": 1
+            },
+            "apelido": "Mateus Claus",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_ahQNt5A.png",
+            "pontuacao": 2,
+            "posicao_id": 1,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "90634": {
+            "scout": {
+                "DS": 4,
+                "FC": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Lucas Mineiro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_xH8ilrc.png",
+            "pontuacao": 5.5,
+            "posicao_id": 4,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "90703": {
+            "scout": {
+                "FD": 2
+            },
+            "apelido": "Matheuzinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_oRcCuAx.png",
+            "pontuacao": 2.4,
+            "posicao_id": 4,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "90715": {
+            "scout": {
+                "FC": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Luiz Fernando",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_TFNlZWH.png",
+            "pontuacao": 0.7,
+            "posicao_id": 5,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "90768": {
+            "scout": {},
+            "apelido": "Fabrício Bruno",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_lglDAms.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "90947": {
+            "scout": {
+                "FC": 2,
+                "FF": 1,
+                "SG": 1
+            },
+            "apelido": "Cardona",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_YucaBOt.png",
+            "pontuacao": 5.2,
+            "posicao_id": 3,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "91101": {
+            "scout": {
+                "DE": 3,
+                "FS": 1,
+                "GS": 1
+            },
+            "apelido": "Ronaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_AaiyHtB.png",
+            "pontuacao": 2.5,
+            "posicao_id": 1,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "91190": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "SG": 1
+            },
+            "apelido": "PK",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_lh9cyLQ.png",
+            "pontuacao": 7.1,
+            "posicao_id": 2,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "91521": {
+            "scout": {
+                "DS": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Eder",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_FORMATO_8rXUJzI.png",
+            "pontuacao": 3.7,
+            "posicao_id": 5,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "91573": {
+            "scout": {
+                "CA": 1,
+                "FC": 1
+            },
+            "apelido": "Arboleda",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/05/07/photo_FORMATO_4juynn8.png",
+            "pontuacao": -1.3,
+            "posicao_id": 3,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "91607": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 1,
+                "FD": 2,
+                "FS": 1,
+                "I": 2
+            },
+            "apelido": "Rony",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_j8iPskd.png",
+            "pontuacao": 2.6,
+            "posicao_id": 5,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "91866": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FF": 1,
+                "FS": 1,
+                "SG": 1
+            },
+            "apelido": "Zé Ivaldo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_XkfvN4h.png",
+            "pontuacao": 7.7,
+            "posicao_id": 3,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "91908": {
+            "scout": {
+                "FF": 1
+            },
+            "apelido": "Pavón",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_cVczRJH.png",
+            "pontuacao": 0.8,
+            "posicao_id": 5,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "92149": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "I": 1
+            },
+            "apelido": "Alario",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_5Z61ABy.png",
+            "pontuacao": -1.4,
+            "posicao_id": 5,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "92237": {
+            "scout": {},
+            "apelido": "Rodrigo Ely",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_RubzI83.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 284,
+            "entrou_em_campo": true
+        },
+        "92496": {
+            "scout": {},
+            "apelido": "Raul",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_kP2nvPk.png",
+            "pontuacao": 0,
+            "posicao_id": 4,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "92696": {
+            "scout": {},
+            "apelido": "Renato Kayzer",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/15/photo_FORMATO.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 356,
+            "entrou_em_campo": true
+        },
+        "93478": {
+            "scout": {
+                "DS": 1,
+                "FC": 2,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Wanderson",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_ntpiKUS.png",
+            "pontuacao": 1.9,
+            "posicao_id": 5,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "93637": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Bruno Tubarão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_3mh3bUg.png",
+            "pontuacao": 2.8,
+            "posicao_id": 2,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "93716": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "FD": 1,
+                "FS": 1,
+                "G": 1
+            },
+            "apelido": "Paulo Henrique",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_9IoUUlz.png",
+            "pontuacao": 8.4,
+            "posicao_id": 2,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "93790": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Marlon Freitas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_IWdTjkg.png",
+            "pontuacao": 1.7,
+            "posicao_id": 4,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "94044": {
+            "scout": {
+                "DE": 5,
+                "GS": 1
+            },
+            "apelido": "John Victor",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_5TQNQjS.png",
+            "pontuacao": 4,
+            "posicao_id": 1,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "94509": {
+            "scout": {
+                "FD": 3,
+                "FS": 1
+            },
+            "apelido": "Raphael Veiga",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_XOXiO3C.png",
+            "pontuacao": 4.1,
+            "posicao_id": 4,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "94583": {
+            "scout": {
+                "FC": 1,
+                "G": 1
+            },
+            "apelido": "Pedro",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_xrhSS2w.png",
+            "pontuacao": 7.7,
+            "posicao_id": 5,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "94845": {
+            "scout": {
+                "DS": 2,
+                "FC": 3,
+                "FD": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Battaglia",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/04/13/photo_FORMATO_XVs5pqz.png",
+            "pontuacao": 4,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "94853": {
+            "scout": {},
+            "apelido": "Eduardo Coudet",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_apsV9qH.png",
+            "pontuacao": 2.83,
+            "posicao_id": 6,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "94931": {
+            "scout": {
+                "CA": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Lucas Fernandes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_Bzva6ru.png",
+            "pontuacao": 0.7,
+            "posicao_id": 4,
+            "clube_id": 1371,
+            "entrou_em_campo": true
+        },
+        "94968": {
+            "scout": {
+                "DS": 1,
+                "FC": 1,
+                "FS": 1
+            },
+            "apelido": "Juninho Capixaba",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_FORMATO_U4Lwrth.png",
+            "pontuacao": 1.4,
+            "posicao_id": 2,
+            "clube_id": 280,
+            "entrou_em_campo": true
+        },
+        "95131": {
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FS": 2,
+                "FT": 1,
+                "I": 1
+            },
+            "apelido": "Gabriel Taliari",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_vGTDrZr.png",
+            "pontuacao": 4.8,
+            "posicao_id": 5,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "95466": {
+            "scout": {
+                "DS": 3,
+                "FC": 1
+            },
+            "apelido": "Igor Vinícius",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_DKQOGT2.png",
+            "pontuacao": 3.3,
+            "posicao_id": 2,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "95556": {
+            "scout": {
+                "DS": 3,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Raniele",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_wftQgQv.png",
+            "pontuacao": 4.9,
+            "posicao_id": 4,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "95662": {
+            "scout": {
+                "CA": 1,
+                "DS": 2,
+                "FC": 2,
+                "FS": 1
+            },
+            "apelido": "Lucas Kal",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/12/photo_FORMATO_Ho8rTXl.png",
+            "pontuacao": 1.3,
+            "posicao_id": 4,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "95738": {
+            "scout": {},
+            "apelido": "Trauco",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/12/photo_FORMATO_38OPKZz.png",
+            "pontuacao": 0,
+            "posicao_id": 2,
+            "clube_id": 288,
+            "entrou_em_campo": true
+        },
+        "96089": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Machado",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_frORMmM.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "96610": {
+            "scout": {
+                "A": 1,
+                "DS": 1,
+                "FC": 2,
+                "FD": 1,
+                "FF": 1,
+                "FS": 1
+            },
+            "apelido": "Matheus Pereira",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_FORMATO_tZZNLQo.png",
+            "pontuacao": 8.1,
+            "posicao_id": 4,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "96652": {
+            "scout": {
+                "FC": 1
+            },
+            "apelido": "Allan",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_j7yMylW.png",
+            "pontuacao": -0.3,
+            "posicao_id": 4,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "96673": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Gabriel Milito",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/24/photo_FORMATO.png",
+            "pontuacao": 6.75,
+            "posicao_id": 6,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "96831": {
+            "scout": {},
+            "apelido": "Carlinhos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/05/13/photo_FORMATO_3NTjVXj.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "96966": {
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FF": 1,
+                "I": 1
+            },
+            "apelido": "Arthur Gomes",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_0C3TGei.png",
+            "pontuacao": 1.6,
+            "posicao_id": 5,
+            "clube_id": 283,
+            "entrou_em_campo": true
+        },
+        "97341": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Rogério Ceni",
+            "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/e6fac1f227854170a80b2cf3234bfa1d_FORMATO.png",
+            "pontuacao": 6.46,
+            "posicao_id": 6,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "97450": {
+            "scout": {
+                "DS": 1,
+                "FS": 2
+            },
+            "apelido": "Gustavo Mosquito",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_6NQENP4.png",
+            "pontuacao": 2.2,
+            "posicao_id": 5,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "97468": {
+            "scout": {
+                "CA": 1,
+                "FC": 1,
+                "FD": 1,
+                "FS": 5
+            },
+            "apelido": "Marçal",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_nKRokLk.png",
+            "pontuacao": 2.4,
+            "posicao_id": 2,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "97520": {
+            "scout": {
+                "CA": 1,
+                "DS": 1,
+                "FC": 1,
+                "FF": 1
+            },
+            "apelido": "Shaylon",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_6COfCnm.png",
+            "pontuacao": 0.7,
+            "posicao_id": 4,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "97522": {
+            "scout": {
+                "DS": 4,
+                "SG": 1
+            },
+            "apelido": "Willean Lepo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/06/26/photo_FORMATO.png",
+            "pontuacao": 9.8,
+            "posicao_id": 2,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "97547": {
+            "scout": {
+                "FC": 2,
+                "FD": 2,
+                "G": 1
+            },
+            "apelido": "Estupiñán",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/14/photo_FORMATO.png",
+            "pontuacao": 9.8,
+            "posicao_id": 5,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "97640": {
+            "scout": {},
+            "apelido": "Eryc Castillo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_FORMATO_xuxbOxr.png",
+            "pontuacao": 0,
+            "posicao_id": 5,
+            "clube_id": 287,
+            "entrou_em_campo": true
+        },
+        "97653": {
+            "scout": {
+                "DS": 2,
+                "FC": 1
+            },
+            "apelido": "Murilo",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_YJUCJBH.png",
+            "pontuacao": 2.1,
+            "posicao_id": 3,
+            "clube_id": 275,
+            "entrou_em_campo": true
+        },
+        "97867": {
+            "scout": {
+                "DS": 1,
+                "FS": 1
+            },
+            "apelido": "Léo Ortiz",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/05/13/photo_FORMATO_Nw5qKTd.png",
+            "pontuacao": 1.7,
+            "posicao_id": 3,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "97900": {
+            "scout": {
+                "DS": 2,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Vitão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_cgStWK5.png",
+            "pontuacao": 4.1,
+            "posicao_id": 3,
+            "clube_id": 285,
+            "entrou_em_campo": true
+        },
+        "97908": {
+            "scout": {
+                "DS": 2
+            },
+            "apelido": "Luís Oyama",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_b9ZdFP4.png",
+            "pontuacao": 2.4,
+            "posicao_id": 4,
+            "clube_id": 286,
+            "entrou_em_campo": true
+        },
+        "98022": {
+            "scout": {
+                "DS": 1,
+                "FF": 1
+            },
+            "apelido": "Erick",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_PzrcPox.png",
+            "pontuacao": 2,
+            "posicao_id": 4,
+            "clube_id": 293,
+            "entrou_em_campo": true
+        },
+        "98225": {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Pedro Raul",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_FORMATO_btuS15d.png",
+            "pontuacao": 3.8,
+            "posicao_id": 5,
+            "clube_id": 264,
+            "entrou_em_campo": true
+        },
+        "98280": {
+            "scout": {
+                "DS": 2,
+                "FC": 1
+            },
+            "apelido": "Bastos",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_sq29S9f.png",
+            "pontuacao": 2.1,
+            "posicao_id": 3,
+            "clube_id": 263,
+            "entrou_em_campo": true
+        },
+        "98484": {
+            "scout": {
+                "DS": 1,
+                "FC": 3
+            },
+            "apelido": "Kanu",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_OKP0vwQ.png",
+            "pontuacao": 0.3,
+            "posicao_id": 3,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "98517": {
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Jean Lucas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_FORMATO_Lb03bwo.png",
+            "pontuacao": 1.4,
+            "posicao_id": 4,
+            "clube_id": 265,
+            "entrou_em_campo": true
+        },
+        "98706": {
+            "scout": {
+                "FS": 1
+            },
+            "apelido": "Pedrinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_QTjI0Vv.png",
+            "pontuacao": 0.5,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "99198": {
+            "scout": {
+                "FF": 1,
+                "FS": 4,
+                "I": 1
+            },
+            "apelido": "Vegetti",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_fK3iFMZ.png",
+            "pontuacao": 2.7,
+            "posicao_id": 5,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "99213": {
+            "scout": {},
+            "apelido": "Puma Rodríguez",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_FORMATO_WaoVDSt.png",
+            "pontuacao": 0,
+            "posicao_id": 2,
+            "clube_id": 267,
+            "entrou_em_campo": true
+        },
+        "99366": {
+            "scout": {
+                "V": 1
+            },
+            "apelido": "Luis Zubeldía",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_FORMATO_1Msj2GU.png",
+            "pontuacao": 4.87,
+            "posicao_id": 6,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        },
+        "99440": {
+            "scout": {
+                "CA": 1,
+                "DS": 3,
+                "FC": 1,
+                "FF": 1,
+                "I": 1
+            },
+            "apelido": "Baralhas",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_5FJVKbT.png",
+            "pontuacao": 3,
+            "posicao_id": 4,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "99552": {
+            "scout": {
+                "DE": 7,
+                "GS": 2
+            },
+            "apelido": "Rossi",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_FORMATO_sM4o3AF.png",
+            "pontuacao": 5,
+            "posicao_id": 1,
+            "clube_id": 262,
+            "entrou_em_campo": true
+        },
+        "99623": {
+            "scout": {
+                "FD": 2,
+                "FS": 1,
+                "I": 1
+            },
+            "apelido": "Guilherme Romão",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_FORMATO_uJhNaxu.png",
+            "pontuacao": 2.8,
+            "posicao_id": 2,
+            "clube_id": 373,
+            "entrou_em_campo": true
+        },
+        "99818": {
+            "scout": {
+                "DS": 1,
+                "FD": 1,
+                "FS": 1
+            },
+            "apelido": "Paulinho",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_FORMATO_XppRgGL.png",
+            "pontuacao": 2.9,
+            "posicao_id": 5,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        },
+        "99889": {
+            "scout": {},
+            "apelido": "Alan Franco",
+            "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_FORMATO_Oa1eUuU.png",
+            "pontuacao": 0,
+            "posicao_id": 3,
+            "clube_id": 276,
+            "entrou_em_campo": true
+        }
+    },
+    "clubes": {
+        "1371": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba30_.png"
+            },
+            "nome": "Cuiabá",
+            "abreviacao": "CUI",
+            "slug": "cuiaba",
+            "apelido": "Dourado",
+            "nome_fantasia": "Cuiabá",
+            "id": 1371,
+            "url_editoria": "https://ge.globo.com/mt/futebol/times/cuiaba/"
+        },
+        "262": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-30.png"
+            },
+            "nome": "Flamengo",
+            "abreviacao": "FLA",
+            "slug": "flamengo",
+            "apelido": "Mengão",
+            "nome_fantasia": "Flamengo",
+            "id": 262,
+            "url_editoria": "https://ge.globo.com/futebol/times/flamengo/"
+        },
+        "263": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-30.png"
+            },
+            "nome": "Botafogo",
+            "abreviacao": "BOT",
+            "slug": "botafogo",
+            "apelido": "Glorioso",
+            "nome_fantasia": "Botafogo",
+            "id": 263,
+            "url_editoria": "https://ge.globo.com/futebol/times/botafogo/"
+        },
+        "264": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_30.png"
+            },
+            "nome": "Corinthians",
+            "abreviacao": "COR",
+            "slug": "corinthians",
+            "apelido": "Timão",
+            "nome_fantasia": "Corinthians",
+            "id": 264,
+            "url_editoria": "https://ge.globo.com/futebol/times/corinthians/"
+        },
+        "265": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_30x30.png"
+            },
+            "nome": "Bahia",
+            "abreviacao": "BAH",
+            "slug": "bahia",
+            "apelido": "Tricolor de Aço",
+            "nome_fantasia": "Bahia",
+            "id": 265,
+            "url_editoria": "https://ge.globo.com/ba/futebol/times/bahia/"
+        },
+        "266": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2015/01/12/Fluminense-escudo.png"
+            },
+            "nome": "Fluminense",
+            "abreviacao": "FLU",
+            "slug": "fluminense",
+            "apelido": "Tricolor",
+            "nome_fantasia": "Fluminense",
+            "id": 266,
+            "url_editoria": "https://ge.globo.com/futebol/times/fluminense/"
+        },
+        "267": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_45px.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_30px.png"
+            },
+            "nome": "Vasco",
+            "abreviacao": "VAS",
+            "slug": "vasco",
+            "apelido": "Gigante da Colina",
+            "nome_fantasia": "Vasco",
+            "id": 267,
+            "url_editoria": "https://ge.globo.com/futebol/times/vasco/"
+        },
+        "275": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_30x30.png"
+            },
+            "nome": "Palmeiras",
+            "abreviacao": "PAL",
+            "slug": "palmeiras",
+            "apelido": "Verdão",
+            "nome_fantasia": "Palmeiras",
+            "id": 275,
+            "url_editoria": "https://ge.globo.com/futebol/times/palmeiras/"
+        },
+        "276": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_30x30.png"
+            },
+            "nome": "São Paulo",
+            "abreviacao": "SAO",
+            "slug": "sao-paulo",
+            "apelido": "Tricolor",
+            "nome_fantasia": "São Paulo",
+            "id": 276,
+            "url_editoria": "https://ge.globo.com/futebol/times/sao-paulo/"
+        },
+        "280": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2020/01/01/45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2020/01/01/30.png"
+            },
+            "nome": "Bragantino",
+            "abreviacao": "BGT",
+            "slug": "bragantino",
+            "apelido": "Massa Bruta",
+            "nome_fantasia": "Bragantino",
+            "id": 280,
+            "url_editoria": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/"
+        },
+        "282": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo45px.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo30px.png"
+            },
+            "nome": "Atlético-MG",
+            "abreviacao": "CAM",
+            "slug": "atletico-mg",
+            "apelido": "Galo",
+            "nome_fantasia": "Atlético-MG",
+            "id": 282,
+            "url_editoria": "https://ge.globo.com/futebol/times/atletico-mg/"
+        },
+        "283": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2021/02/13/45_cruzeiro-2021.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2021/02/13/30_cruzeiro-2021.png"
+            },
+            "nome": "Cruzeiro",
+            "abreviacao": "CRU",
+            "slug": "cruzeiro",
+            "apelido": "Raposa",
+            "nome_fantasia": "Cruzeiro",
+            "id": 283,
+            "url_editoria": "https://ge.globo.com/futebol/times/cruzeiro/"
+        },
+        "284": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_30x30.png"
+            },
+            "nome": "Grêmio",
+            "abreviacao": "GRE",
+            "slug": "gremio",
+            "apelido": "Imortal",
+            "nome_fantasia": "Grêmio",
+            "id": 284,
+            "url_editoria": "https://ge.globo.com/rs/futebol/times/gremio/"
+        },
+        "285": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2016/05/03/inter45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2016/05/03/inter30.png"
+            },
+            "nome": "Internacional",
+            "abreviacao": "INT",
+            "slug": "internacional",
+            "apelido": "Colorado",
+            "nome_fantasia": "Internacional",
+            "id": 285,
+            "url_editoria": "https://ge.globo.com/rs/futebol/times/internacional/"
+        },
+        "286": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude30.png"
+            },
+            "nome": "Juventude",
+            "abreviacao": "JUV",
+            "slug": "juventude",
+            "apelido": "Papo",
+            "nome_fantasia": "Juventude",
+            "id": 286,
+            "url_editoria": "https://ge.globo.com/rs/futebol/times/juventude/"
+        },
+        "287": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-45x45-69283.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-30x30-69282.png"
+            },
+            "nome": "Vitória",
+            "abreviacao": "VIT",
+            "slug": "vitoria",
+            "apelido": "Vitória",
+            "nome_fantasia": "Vitória",
+            "id": 287,
+            "url_editoria": "https://ge.globo.com/ba/futebol/times/vitoria/"
+        },
+        "288": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-30.png"
+            },
+            "nome": "Criciúma",
+            "abreviacao": "CRI",
+            "slug": "criciuma",
+            "apelido": "Tigre",
+            "nome_fantasia": "Criciúma",
+            "id": 288,
+            "url_editoria": "https://ge.globo.com/sc/futebol/times/criciuma/"
+        },
+        "293": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-45x45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-30x30.png"
+            },
+            "nome": "Athlético-PR",
+            "abreviacao": "CAP",
+            "slug": "atletico-pr",
+            "apelido": "Furacão",
+            "nome_fantasia": "Athlético-PR",
+            "id": 293,
+            "url_editoria": "https://ge.globo.com/pr/futebol/times/athletico-pr/"
+        },
+        "356": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2021/09/19/45_0000_Fortaleza-2021.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2021/09/19/30_0000_Fortaleza-2021.png"
+            },
+            "nome": "Fortaleza",
+            "abreviacao": "FOR",
+            "slug": "fortaleza",
+            "apelido": "Leão do Pici",
+            "nome_fantasia": "Fortaleza",
+            "id": 356,
+            "url_editoria": "https://ge.globo.com/ce/futebol/times/fortaleza/"
+        },
+        "373": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-30.png"
+            },
+            "nome": "Atlético-GO",
+            "abreviacao": "ACG",
+            "slug": "atletico-go",
+            "apelido": "Dragão",
+            "nome_fantasia": "Atlético-GO",
+            "id": 373,
+            "url_editoria": "https://ge.globo.com/go/futebol/times/atletico-go/"
+        }
+    },
+    "posicoes": {
+        "1": {
+            "id": 1,
+            "nome": "Goleiro",
+            "abreviacao": "gol"
+        },
+        "2": {
+            "id": 2,
+            "nome": "Lateral",
+            "abreviacao": "lat"
+        },
+        "3": {
+            "id": 3,
+            "nome": "Zagueiro",
+            "abreviacao": "zag"
+        },
+        "4": {
+            "id": 4,
+            "nome": "Meia",
+            "abreviacao": "mei"
+        },
+        "5": {
+            "id": 5,
+            "nome": "Atacante",
+            "abreviacao": "ata"
+        },
+        "6": {
+            "id": 6,
+            "nome": "Técnico",
+            "abreviacao": "tec"
+        }
+    },
+    "rodada": 12,
+    "total_atletas": 334
+}

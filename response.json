@@ -1,0 +1,67 @@
+{
+    "atletas": {
+        "100079": {
+            "scout": {
+                "DS": 2,
+                "FC": 2,
+                "FF": 1
+            },
+            "apelido": "Zaracho",
+            "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_FORMATO_wjGLEpf.png",
+            "pontuacao": 2.6,
+            "posicao_id": 4,
+            "clube_id": 282,
+            "entrou_em_campo": true
+        }
+   },
+    "clubes": {
+        "1371": {
+            "escudos": {
+                "60x60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+                "45x45": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba45.png",
+                "30x30": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba30_.png"
+            },
+            "nome": "Cuiabá",
+            "abreviacao": "CUI",
+            "slug": "cuiaba",
+            "apelido": "Dourado",
+            "nome_fantasia": "Cuiabá",
+            "id": 1371,
+            "url_editoria": "https://ge.globo.com/mt/futebol/times/cuiaba/"
+        }
+    },
+    "posicoes": {
+        "1": {
+            "id": 1,
+            "nome": "Goleiro",
+            "abreviacao": "gol"
+        },
+        "2": {
+            "id": 2,
+            "nome": "Lateral",
+            "abreviacao": "lat"
+        },
+        "3": {
+            "id": 3,
+            "nome": "Zagueiro",
+            "abreviacao": "zag"
+        },
+        "4": {
+            "id": 4,
+            "nome": "Meia",
+            "abreviacao": "mei"
+        },
+        "5": {
+            "id": 5,
+            "nome": "Atacante",
+            "abreviacao": "ata"
+        },
+        "6": {
+            "id": 6,
+            "nome": "Técnico",
+            "abreviacao": "tec"
+        }
+    },
+    "rodada": 1,
+    "total_atletas": 342
+}
